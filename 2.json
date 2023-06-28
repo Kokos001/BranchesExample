@@ -1,3 +1,5 @@
-{}[D
-[A[C[C ""[D1" : ""[D2"}
-[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+{"first" : "hola",
+"second" : "adios",
+"first" : "privet",
+"second" : "poka"
+}

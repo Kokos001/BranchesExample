@@ -1,4 +1,4 @@
-1 Title
+1 Заголовок
 2 Environment
 3 Severity
 4 Priority
